@@ -1,5 +1,6 @@
 # Connected-watertaps
-simulate project
+simulate project KdG IoT
+hier vindt je de bestanden van ons project 
 
 Project Leden:
 
