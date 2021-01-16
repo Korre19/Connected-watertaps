@@ -18,7 +18,7 @@
 
 import time
 
-from DFRobot_RaspberryPi_A02YYUW-master import DFRobot_A02_Distance as Board
+from DFRobot_RaspberryPi_A02YYUW import DFRobot_A02_Distance as Board
 
 board = Board()
 
